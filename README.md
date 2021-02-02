@@ -26,7 +26,7 @@ Finally, we can run the chunks by their percentage of wins by resigning, mate, o
 This can be represented by multiple pie charts showing the distribution of the 3 possible values amongst different skill groups.
 Finally, we can observe the increase in a certain style of victory as the rating goes up or down.
 
-Notes:
+5. Notes:
 When trying to get our data to be precise we will have to use clustering to get matches that are in close proximity to each other normally by group combined ratings together. What this allows us to do is examine data in matches where players are equally skilled
 In data where we want to find the difference between the rating of two players what we are particularly interested in is seeing if the more massive difference in player skills leads to a decrease in moves made, time spent in the match, and an increase in victories. To do this we can use classification by predetermining the differences between the players and grouping them together.
 
